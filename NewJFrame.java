@@ -23,7 +23,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author drose
+ * @author David Rose
  */
 interface InnovationInterface {
     /*the Object class has a compareTo method, however the implemented classes 
